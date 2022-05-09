@@ -8,4 +8,4 @@ document.addEventListener('click', e => {
         $signIn.classList.toggle('active');
         $signUp.classList.toggle('active')
     }
-});
+}); 
